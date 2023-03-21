@@ -11,8 +11,7 @@ inputSalary-Variable for the Input Salary
 your Code should come after
 // write Code For the Code challenge
 
-assign your output to the finalOutput variable
-
+assign your output to the finalOutput variabl
 
 # YOUR README DESCRIPTION STARTS HERE
 
